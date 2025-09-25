@@ -1,0 +1,28 @@
+/*
+Author: Markus Paananen
+Date: 2025-25-9
+*/
+body {
+    background-color: bisque;
+}
+h1 {
+    color: red;
+    font-size: large;
+}
+p {
+    color: blue;
+}
+ul {
+    list-style-type: square;
+    color: red;
+    padding: 1em;
+}
+ol {
+    list-style-type: disc;
+    color: red;
+    padding: 1em;
+}
+a {
+    font-weight: bold;
+    color: black;
+}
