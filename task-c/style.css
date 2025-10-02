@@ -1,0 +1,29 @@
+/*
+Author: Markus Paananen
+Date: 2025-2-10
+*/
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+img {
+    display: block;
+    margin: 0 auto 20px auto;
+
+
+    width: 100%;
+    max-width: 500px;
+
+}
+
+audio,
+video {
+    display: block;
+    margin: 20px auto;
+}
+
+p {
+    margin-bottom: 55px;
+}
